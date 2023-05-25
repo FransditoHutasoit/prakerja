@@ -1,0 +1,52 @@
+struktur folder (Web Programmer - B3) :
+Web Programmer - B3
+----- Absensi
+----- Materi
+--------- Sesi-01
+--------------- belajar_html
+---------------------- index.php/index.html (diakses untuk browser)
+--------------- tugas
+---------------------- index.php/index.html (diakses untuk browser)
+--------------- readme.txt/summary.txt (readme.txt default untuk read data di github)
+--------- Sesi-02
+--------------- belajar_css_1
+---------------------- index.php/index.html
+--------------- belajar_css_2
+---------------------- index.php/index.html
+--------------- belajar_css_2
+---------------------- index.php/index.html
+--------------- readme.txt/summary.txt (readme.txt default untuk read data di github)
+--------- Sesi-03
+--------- Sesi-04
+--------- Sesi-05
+--------- Sesi-06
+--------- Sesi-07
+--------- Sesi-08
+
+sesi 01 tugas membuat file 
+struktur folder : sesi-01/belajar_html/index.html
+
+running local : (tanpa menggunakan xampp/laragon - server local)
+running menggunakan vscode :
+- live server
+- live server preview
+- php server (rekomendasi)
+
+emmet / suggest code :
+h3 > sblm mengetik h 
+---- h1
+---- h2
+---- h3
+dst
+
+struktur :
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    isikan konten, sample code :
+    header h5
+    paragraf p
+  </body>
+</html>
